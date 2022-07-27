@@ -1,0 +1,11 @@
+body {
+    background-color: #021027;
+  }
+  .navbar{
+    background-color: #7a539e blueviolet rgb(184, 184, 255) rgb(175, 132, 132) !important  ;
+    /* padding: 0; */
+  }
+  .abc{
+    color: red !important;
+    line-height: 200 !important;
+  }
